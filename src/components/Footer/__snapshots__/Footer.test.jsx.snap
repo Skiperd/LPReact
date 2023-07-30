@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> should render 1`] = `
+<div>
+  <footer
+    class="sc-bczSft jDUYhw"
+  >
+    <div
+      class="sc-dkzCjb jydnsg"
+    >
+      <div
+        class="sc-gsnScm fzoZPA"
+      >
+        <h1>
+          Ola
+        </h1>
+      </div>
+    </div>
+  </footer>
+</div>
+`;

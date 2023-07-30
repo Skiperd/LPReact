@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GridText /> should render 1`] = `
+<div>
+  <div
+    class="sc-jSMdHm iWvHiH"
+  >
+    <div
+      class="sc-gKXNOb gIaNMV"
+    >
+      <div
+        class="sc-dkzCjb cEEDge"
+      >
+        <h1
+          class="sc-bczSft igSWoT"
+        >
+          My Grid
+        </h1>
+        <p
+          class="sc-gsnScm fzoZPA"
+        >
+          Atque doloribus nobis laudantium esse ut, non commodi maxime distinction veritatis unde
+        </p>
+        <div
+          class="sc-hKMtDE bJiFrK"
+        >
+          <div
+            class="sc-eCYdKt irPrMQ"
+          >
+            <h1
+              class="sc-bczSft kyqoYf"
+            >
+              Teste 1
+            </h1>
+            <p
+              class="sc-gsnScm fzoZPA"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+            </p>
+          </div>
+          <div
+            class="sc-eCYdKt irPrMQ"
+          >
+            <h1
+              class="sc-bczSft kyqoYf"
+            >
+              Teste 2
+            </h1>
+            <p
+              class="sc-gsnScm fzoZPA"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+            </p>
+          </div>
+          <div
+            class="sc-eCYdKt irPrMQ"
+          >
+            <h1
+              class="sc-bczSft kyqoYf"
+            >
+              Teste 3
+            </h1>
+            <p
+              class="sc-gsnScm fzoZPA"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

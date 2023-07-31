@@ -19,7 +19,7 @@ exports[`<SectionBackground /> should render with background dark 1`] = `
 exports[`<SectionBackground /> should render with background light 1`] = `
 <div>
   <div
-    class="sc-bczSft exAuwe"
+    class="sc-bczSft hbyQKU"
   >
     <div
       class="sc-gsnScm iuPRvZ"

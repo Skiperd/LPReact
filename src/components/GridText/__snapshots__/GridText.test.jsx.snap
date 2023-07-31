@@ -11,60 +11,60 @@ exports[`<GridText /> should render 1`] = `
       <div
         class="sc-dkzCjb cEEDge"
       >
-        <h1
+        <h2
           class="sc-bczSft igSWoT"
         >
           My Grid
-        </h1>
-        <p
+        </h2>
+        <div
           class="sc-gsnScm fzoZPA"
         >
           Atque doloribus nobis laudantium esse ut, non commodi maxime distinction veritatis unde
-        </p>
+        </div>
         <div
-          class="sc-hKMtDE bJiFrK"
+          class="sc-hKMtDE jHOJvi"
         >
           <div
             class="sc-eCYdKt irPrMQ"
           >
-            <h1
+            <h3
               class="sc-bczSft kyqoYf"
             >
               Teste 1
-            </h1>
-            <p
+            </h3>
+            <div
               class="sc-gsnScm fzoZPA"
             >
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-            </p>
+            </div>
           </div>
           <div
             class="sc-eCYdKt irPrMQ"
           >
-            <h1
+            <h3
               class="sc-bczSft kyqoYf"
             >
               Teste 2
-            </h1>
-            <p
+            </h3>
+            <div
               class="sc-gsnScm fzoZPA"
             >
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-            </p>
+            </div>
           </div>
           <div
             class="sc-eCYdKt irPrMQ"
           >
-            <h1
+            <h3
               class="sc-bczSft kyqoYf"
             >
               Teste 3
-            </h1>
-            <p
+            </h3>
+            <div
               class="sc-gsnScm fzoZPA"
             >
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-            </p>
+            </div>
           </div>
         </div>
       </div>

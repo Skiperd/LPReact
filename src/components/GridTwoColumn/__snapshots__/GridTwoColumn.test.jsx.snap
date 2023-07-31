@@ -14,16 +14,16 @@ exports[`<GridTwoColumn /> should render two column grid 1`] = `
         <div
           class="sc-dkzCjb dqQNpU"
         >
-          <h1
+          <h2
             class="sc-bczSft igSWoT"
           >
             Grid Two Column
-          </h1>
-          <p
+          </h2>
+          <div
             class="sc-iBkiHk iKqXMl"
           >
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus ipsam enim perferendis nihil quis culpa natus deserunt corporis, blanditiis ea harum ullam? Id quo exercitationem nulla illo repellat ratione eos.
-          </p>
+          </div>
         </div>
         <div
           class="sc-hKMtDE giKMvm"

@@ -14,13 +14,13 @@ exports[`<GridContent /> should render 1`] = `
         <div
           class="sc-gsnScm iUcorH"
         >
-          <h1
+          <h2
             class="sc-eCYdKt iVZKKR"
           >
             O título que eu quero
-          </h1>
+          </h2>
         </div>
-        <p
+        <div
           class="sc-jSMdHm htYCUu"
         >
           
@@ -113,7 +113,7 @@ exports[`<GridContent /> should render 1`] = `
   
             </code>
           </pre>
-        </p>
+        </div>
       </div>
     </div>
   </div>

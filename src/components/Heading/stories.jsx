@@ -4,7 +4,7 @@ export default {
   title: "Heading",
   component: Heading,
   args: {
-    children: "meu nome não é jhonny",
+    children: "",
   },
   argTypes: {
     children: { type: "string" },
@@ -26,6 +26,6 @@ Light.parameters = {
 };
 
 Dark.args = {
-  children: "meu nome não é jhonny",
+  children: "",
   colorDark: false,
 };
